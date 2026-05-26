@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpecrypt",
+        "uuid": 2784294,
+        "checksum": "g0wtya"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
